@@ -16,4 +16,10 @@ public final class Constant {
     public static final String RESOURCE_HANDLER = "/css/**";
     public static final String RESOURCE_LOCATIONS = "/WEB-INF/css/";
 
+    public static final String QUERY_SELECT_ALL_EMPLOYEES = "SELECT * FROM company_storage.employee";
+    public static final String ROW_ID = "id";
+    public static final String ROW_FIRST_NAME = "first_name";
+    public static final String ROW_LAST_NAME = "last_name";
+    public static final String ROW_SALARY = "salary";
+
 }

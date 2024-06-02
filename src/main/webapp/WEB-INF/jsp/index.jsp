@@ -8,6 +8,7 @@
     </head>
 
     <body>
+        <br>
         <b>All employees</b>
         <br><br>
         <table class = "table">
